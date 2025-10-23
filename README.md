@@ -1,6 +1,7 @@
 # City Planning Notebook (ISE3230)
 
 This repository contains the `CityPlanning.ipynb` notebook for the city optimization project. 
+<img src="https://img.shields.io/badge/Status-WIP-yellow" alt="Status" />
 
 ---
 
